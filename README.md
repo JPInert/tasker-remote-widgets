@@ -10,7 +10,7 @@ Android home-screen widgets, built with Tasker, that I redesign from my desktop 
 
 ## Why I built it
 
-My wife wanted to see the car's battery on her home screen at a glance. Her phone (a Galaxy, not rooted) runs Tasker, but without root I cannot edit Tasker's config remotely, so the usual tricks did not apply. I did not want her re-importing Tasker files every time I changed how the widget looks. I was not sure it could be done. It works.
+I wanted the car's battery on an Android home screen at a glance. The phone (a Galaxy, not rooted) runs Tasker, but without root I cannot edit Tasker's config remotely, so the usual tricks did not apply. I did not want to re-import Tasker files every time I changed how the widget looks. I was not sure it could be done. It works.
 
 ## How it works
 
